@@ -1,5 +1,5 @@
 # Lightning
-A productivity app crafted for students.
+A productivity app crafted for students by students.
 
 Note: This app is still under development
 
